@@ -1,0 +1,27 @@
+{
+  "name": "moviebackendpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrboggii/MovieBackendPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrboggii/MovieBackendPractice/issues"
+  },
+  "homepage": "https://github.com/mrboggii/MovieBackendPractice#readme",
+  "dependencies": {
+    "sequelize": "^5.21.5",
+    "sqlite3": "^4.1.1"
+  },
+  "devDependencies": {
+    "node-pre-gyp": "^0.14.0"
+  }
+}
